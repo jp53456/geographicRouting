@@ -1,4 +1,4 @@
-# geographicRouting
+# geographic_routing
 This a program that takes in a conﬁguration ﬁle with nodes information to perform geographic routing. Each line in conﬁguration ﬁle will contain 3 values (node id, x coordinate of the node, y coordinate of the node) seperated with a space.
 
 To compile: g++ -g -std=c++11 -o gf gf.cpp 
